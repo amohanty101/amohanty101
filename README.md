@@ -5,7 +5,7 @@ I’m currently enrolled in a Professional Certificate in Coding with MIT|XPRO E
 
 - My GitHub page is :  https://github.com/amohanty101
 - My LinkedIn page :   https://www.linkedin.com/in/anjali-mohanty/
--You can reach me at anjali.mohanty101@gmail.com 📫
+- You can reach me at anjali.mohanty101@gmail.com 📫
 
 
 <!---
