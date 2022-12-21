@@ -8,8 +8,11 @@ I’m currently enrolled in a Professional Certificate in Coding with MIT|XPRO E
 - You can reach me at anjali.mohanty101@gmail.com 📫
 
 # My Portfolio
-# My Eyes Repo
+ My Eyes Repo
 <a href ="https://amohanty101.github.io/Eye-Movement-Excercise/"> Eyes Excercise </a>
+
+Pacman Factory Excercise
+<a href ="https://amohanty101.github.io/PacMen-Exercise/"> Pacman Factory Excercise
 
 
 <!---
