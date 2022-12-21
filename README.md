@@ -15,7 +15,7 @@ PacMen Exercise
 <a href ="https://amohanty101.github.io/PacMen-Exercise/">PacMen Exercise</a>
  
  Real Time Bus Tracker Exercise
-<a heref = "https://amohanty101.github.io/Real-Time-Bus-Tracker/">Real Time Bus Tracker Exercise</a>
+<a href = "https://amohanty101.github.io/Real-Time-Bus-Tracker/">Real Time Bus Tracker Exercise</a>
 
 
 <!---
